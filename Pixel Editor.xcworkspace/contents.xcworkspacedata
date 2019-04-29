@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Pixel Art Resizer/Pixel Art Resizer.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:PixelArtKit/PixelArtKit.xcodeproj">
+   </FileRef>
+</Workspace>

@@ -1,0 +1,6 @@
+[submodule "Pixel Art Resizer"]
+	path = Pixel Art Resizer
+	url = https://github.com/BlueHuskyStudios/Pixel-Art-Resizer.git
+[submodule "PixelArtKit"]
+	path = PixelArtKit
+	url = https://github.com/BlueHuskyStudios/PixelArtKit.git
