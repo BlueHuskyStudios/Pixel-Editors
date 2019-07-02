@@ -5,9 +5,6 @@
       location = "group:Pixel Art Resizer/Pixel Art Resizer 2/Pixel Art Resizer 2.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:Pixel Art Resizer/Pixel Art Resizer.xcodeproj">
-   </FileRef>
-   <FileRef
       location = "group:PixelArtKit/PixelArtKit.xcodeproj">
    </FileRef>
 </Workspace>
